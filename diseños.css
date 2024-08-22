@@ -1,0 +1,48 @@
+body{
+    color: rgba(140, 148, 174, 0.938);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(24, 32, 43);
+    margin: 0;
+    padding: 0;
+    border-radius: 5%;
+}
+body p{
+    background-color: rgb(20, 33, 60);
+    padding: 1rem;
+    margin-left: 0;
+    text-align: justify;
+    border-radius: 5%;
+}
+.imgpresentacion{
+    text-align: center;
+}
+header{
+    font-family: fantasy;
+    text-align: center;
+    background-color: rgb(23, 15, 79);
+}
+
+body{
+    text-align: center;
+    background-color:  rgb(24, 32, 43);
+}
+body header{
+    font-family: fantasy;
+    text-align: center;
+    background-color: rgb(23, 15, 79);
+    border-radius: 5%;
+    font-size: 150%;
+    margin: 0;
+}
+ul img{
+    text-align: center;
+    width: 400px;
+    height: 200px;
+}
+ul li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    background-color: rgb(24, 75, 119);
+    border-radius: 7%;
+    font-size: 2.5em;
+}
