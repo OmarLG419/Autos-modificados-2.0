@@ -1,10 +1,10 @@
 body{
     color: rgba(140, 148, 174, 0.938);
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(24, 32, 43);
+    background-color:rgb(18, 18, 42);
     margin: 0;
     padding: 0;
-    border-radius: 5%;
+    border-radius: 10%;
 }
 body p{
     
@@ -22,16 +22,11 @@ body p{
     background-color:rgb(18, 18, 42);
     font-size: large;
 }
-
-body{
-    text-align: center;
-    background-color:   rgb(18, 18, 42);
-}
 body header{
     font-family: fantasy;
     text-align: center;
     background-color: rgb(23, 15, 79);
-    border-radius: 2%;
+    border-radius: 5%;
     font-size: 100%;
     margin: 0;
 }
@@ -66,3 +61,11 @@ ul li{
     background-color: indigo;
 }
 
+.galery{
+    text-align: left;
+}
+.piesdefoto{
+    text-align: justify;
+    font-size: small;
+    color: darkblue;
+}
