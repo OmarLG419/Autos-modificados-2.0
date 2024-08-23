@@ -26,7 +26,6 @@ body header{
     font-family: fantasy;
     text-align: center;
     background-color: rgb(23, 15, 79);
-    border-radius: 5%;
     font-size: 100%;
     margin: 0;
 }
@@ -68,4 +67,29 @@ ul li{
     text-align: justify;
     font-size: small;
     color: darkblue;
+}
+
+.multas{
+    display: flex;
+    align-items: center;
+
+}
+.imgmultas{
+    margin-right: 10px;
+    width: 300px;
+}
+.multas p{
+    text-align: center;
+    font-size: medium;
+    background-color: midnightblue;
+    margin: 10px;
+}
+.multas h2{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menumultas{
+    background-color: rgb(10, 8, 19);
+    font-size: 20px;
 }
