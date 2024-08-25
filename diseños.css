@@ -91,5 +91,35 @@ ul li{
 
 .menumultas{
     background-color: rgb(10, 8, 19);
-    font-size: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+.mantenitext p{
+    text-align: left;
+    font-size: medium;
+}
+.manteni header{
+    font-size: large;
+    background-color: navy;
+}
+.dibujo{
+    text-align: center;
+}
+.vidio{
+    text-align: center;
+}
+.vidio video{
+    width: 600px;
+}
+.referencia{
+    text-align: center;
+}
+.muchtexto p{
+    text-align: left;
+}
+.muchtexto h2{
+    background-color: rgb(23, 15, 79);
+    margin: auto;
+    border-radius: 0%;
+    font-size: 35px;
 }
